@@ -1,0 +1,14 @@
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.csprojAssemblyReference.cache
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.csproj.CoreCompileInputs.cache
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.AssemblyInfoInputs.cache
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.AssemblyInfo.cs
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.exe
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.deps.json
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.runtimeconfig.json
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.runtimeconfig.dev.json
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.dll
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.pdb
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.dll
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.pdb
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.genruntimeconfig.cache
+C:\Users\mbuffelen\Desktop\Mathml\Mathml\Mathml\bin\Debug\netcoreapp3.1\math.xml
